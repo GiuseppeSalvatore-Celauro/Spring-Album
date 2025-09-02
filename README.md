@@ -15,17 +15,3 @@ PhotoAlbum è un sito in cui ho applicato le nuove conoscenze imparate nello svi
 - **Backend:** Java (Spring boot)
 - **Database:** MySQL
 
----
-
-## ⚙️ Installazione & Avvio
-Clona il repository e installa le dipendenze:
-
-```bash
-git clone <url-del-repo>
-cd <nome-cartella>
-composer install
-npm install
-php artisan key:generate
-php artisan migrate
-npm run dev
-php artisan serve
