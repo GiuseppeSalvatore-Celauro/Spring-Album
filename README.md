@@ -7,7 +7,7 @@ PhotoAlbum è un sito in cui ho applicato le nuove conoscenze imparate nello svi
 -Comprendere e capire a pieno le funzionalità di spring boot
 -Applicare meccaniche MVC
 -Avere un sistema di validazione per l'interimento di nuove foto
--(ancora in sviluppo) Aggiunta di sistema di autenticazione utente
+-Aggiunto di sistema di autenticazione utente con Spring Security
 -Query con MySQL tramite api strutturate da me
 
 ###  Tecnologie
